@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_i2c_master_behav/xsimk.exe -simmode gui -wdb tb_i2c_master_behav.wdb -simrunnum 0 -socket 51017
+Design successfully loaded
+Design Loading Memory Usage: 18240 KB (Peak: 18240 KB)
+Design Loading CPU Usage: 140 ms
+Simulation completed
+Simulation Memory Usage: 24508 KB (Peak: 24508 KB)
+Simulation CPU Usage: 1124 ms
